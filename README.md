@@ -8,7 +8,7 @@ Welcome to my school Batch projects repository! In this repository, you will fin
 
 This batch project provides an interactive menu with several functionalities. It is a command-line tool that allows you to perform various operations on files and directories. The menu displays the following options:
 
-   ```bat
+   ```bash
    1. Create New User
    2. Generate Process Report
    3. Move Files
